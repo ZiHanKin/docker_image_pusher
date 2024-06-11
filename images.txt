@@ -1,1 +1,1 @@
-screego/server:latest
+screego/server
