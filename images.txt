@@ -1,2 +1,2 @@
 adolfintel/speedtest
-screego/server
+screego/server:1.10.1
