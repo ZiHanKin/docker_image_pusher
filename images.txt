@@ -1,1 +1,1 @@
-fastposter/fastposter:latest
+zyplayer/zyplayer-doc:latest
