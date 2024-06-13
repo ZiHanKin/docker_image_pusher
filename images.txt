@@ -1,1 +1,1 @@
-zyplayer/zyplayer-doc:latest
+dddb/cf2dns
