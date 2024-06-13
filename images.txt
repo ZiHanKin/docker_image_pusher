@@ -1,1 +1,1 @@
-bitwardenrs/server
+vaultwarden/server
