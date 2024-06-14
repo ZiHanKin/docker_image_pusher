@@ -1,1 +1,1 @@
-dddb/cf2dns
+alandoyle/searxng:latest
