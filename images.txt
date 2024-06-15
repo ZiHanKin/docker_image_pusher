@@ -1,1 +1,1 @@
-chishin/nginx-proxy-manager-zh
+ghcr.io/ajnart/homarr:latest
