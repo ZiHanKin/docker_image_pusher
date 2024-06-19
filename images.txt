@@ -1,1 +1,1 @@
-ghcr.io/ajnart/homarr:latest
+registry.aliyuncs.com/openspug/spug 
