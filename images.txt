@@ -1,1 +1,2 @@
-registry.aliyuncs.com/openspug/spug 
+mariadb:10.8.2
+openspug/spug-service
