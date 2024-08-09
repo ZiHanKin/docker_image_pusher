@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server
+ ghcr.io/kingmo888/rustdesk-api-server:latest
