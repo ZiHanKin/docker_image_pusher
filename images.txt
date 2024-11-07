@@ -1,1 +1,1 @@
- celaraze/cat:latest
+hslr/sun-panel:latest
