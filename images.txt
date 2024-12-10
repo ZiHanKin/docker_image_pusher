@@ -1,1 +1,1 @@
-hslr/sun-panel:latest
+lmk123/migpt-server:latest
